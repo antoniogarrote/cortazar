@@ -1,0 +1,6 @@
+initial-state: a
+transitions:
+  - [a, 1, b]
+  - [a, 2, c]
+  - [c, 3, a]
+  - [c, 4, b]
